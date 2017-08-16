@@ -1,2 +1,2 @@
 # IR_Class
-An example of using Sklearn module for multinomial classification.
+An example of using Sklearn module for multinomial classification on student success data. Repository gives detailed examples of using top classification algorithms to predict student success. The examples folder contains *.ipynb* files entalling detailed explanation of steps to fitting a final model. The scripts folder contains *.py* files with the consolidated code for each machine learning algortihm used. The data set can be found in the data folder.
